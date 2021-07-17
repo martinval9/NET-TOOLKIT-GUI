@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Net Tools[D]
+Comment=Diagnostico de red
+Exec=python3 /home/martin/net_gui/net_tools.pyw
+Icon=/home/martin/net_gui/net.png
+Categories=System Tools; #se puede omitir esta linea
+Terminal=false #true si es de terminal
+Type=Application
