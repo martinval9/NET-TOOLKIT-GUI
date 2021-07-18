@@ -10,6 +10,8 @@ cd NET-TOOLKIT-GUI
 
 sudo bash install.sh
 
+sudo pip install netutils-linux
+
 ## Instalación de la fuente
 
 cd /usr/share/fonts
