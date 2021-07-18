@@ -10,6 +10,18 @@ cd NET-TOOLKIT-GUI
 
 sudo bash install.sh
 
+## Instalación de la fuente
+
+cd /usr/share/fonts
+
+mkdir JetBrains && cd
+
+cd NET-TOOLKIT-GUI
+
+sudo cp JetBrainsMono-ExtraBold.ttf /usr/share/fonts/JetBrains
+
+sudo cp JetBrainsMono-Medium.ttf /usr/share/fonts/JetBrains
+
 ## Dependencias
 
 Etherape
